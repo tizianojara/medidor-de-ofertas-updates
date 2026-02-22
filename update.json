@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "url": "https://medidor_de_ofertas/instalador.exe",
-  "changelog": "Correcciones y mejoras generales"
+  "url": "https://github.com/tizianojara/medidor-de-ofertas-updates/releases/latest/download/MedidorDeOfertasSetup_v1.0.1.exe",
+  "notes": "Primera versión estable con exportación a PDF, historial, usuario y texto a voz."
 }
